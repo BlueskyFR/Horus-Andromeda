@@ -15,3 +15,5 @@ void asteroidsNextFrame(Asteroid *asteroids);
 void drawAsteroids(RenderWindow *fenetre, Asteroid *asteroids);
 
 void noAsteroidExist(Asteroid *asteroids);
+
+//ceci est un commentaire utile
